@@ -53,3 +53,4 @@ for num in range(len(all_links)):
     submit_button = wait.until(EC.element_to_be_clickable((By.XPATH, '//*[contains(text(), "Submit")]')))
     submit_button.click()
 
+driver.quit()
