@@ -3,6 +3,13 @@
 ## Project Overview
 This script automates the process of data entry for property listings to a Google Spreadsheet. It starts by scraping property details from a clone of Zillow's listing page using Beautiful Soup, then uses Selenium WebDriver to automate the submission of these details into a Google Form.
 
+## Output
+
+
+https://github.com/sarvesh-2109/Data-Entry-Job-Automator/assets/113255836/38fcd182-bcdd-4bdd-9938-7ca189db792b
+
+
+
 ## Features
 - **Scraping Property Details:** Fetches property addresses, prices, and individual listing URLs from a specified webpage.
 - **Automated Form Submission:** Automates the process of entering the scraped property details into a Google Form and submitting them.
